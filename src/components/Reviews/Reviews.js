@@ -3,7 +3,7 @@ import React from "react";
 const Reviews = () => {
   return (
     <div>
-      <h1>This is blog</h1>
+      <h1>This is Reviews page</h1>
     </div>
   );
 };
