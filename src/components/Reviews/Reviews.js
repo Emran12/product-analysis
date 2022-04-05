@@ -12,7 +12,7 @@ const Reviews = () => {
         </h1>
       </div>
       {
-        <div className="grid grid-cols-3 gap-4 ml-32 mr-32  ">
+        <div className="lg:grid grid-cols-3 gap-4 container mx-auto">
           {reviews.map((review) => (
             <Review key={review.name} review={review}></Review>
           ))}

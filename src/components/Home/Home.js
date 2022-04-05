@@ -8,7 +8,7 @@ const Home = () => {
   const [reviews] = useReviews();
   return (
     <div>
-      <div className="grid grid-cols-2  gap-32 ml-32">
+      <div className="lg:grid grid-cols-2  gap-32 container mx-auto">
         <div>
           <h1 className="text-5xl font-bold">
             Best Selling Chair <br></br>
@@ -40,7 +40,7 @@ const Home = () => {
           Customer Reviews(3)
         </h1>
       </div>
-      <div className="grid grid-cols-3 gap-4 ml-32 mr-32  ">
+      <div className="lg:grid grid-cols-3 gap-4 container mx-auto ">
         {reviews.slice(0, 3).map((review) => (
           <Review key={review.name} review={review}></Review>
         ))}

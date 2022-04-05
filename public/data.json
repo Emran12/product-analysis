@@ -1,5 +1,4 @@
-[
-    {
+[{
         "month": "Mar",
         "investment": 100000,
         "sell": 241,
@@ -34,5 +33,29 @@
         "investment": 700000,
         "sell": 670,
         "revenue": 61000
+    },
+    {
+        "month": "September",
+        "investment": 750000,
+        "sell": 678,
+        "revenue": 63000
+    },
+    {
+        "month": "October",
+        "investment": 710000,
+        "sell": 673,
+        "revenue": 60000
+    },
+    {
+        "month": "November",
+        "investment": 700400,
+        "sell": 660,
+        "revenue": 62000
+    },
+    {
+        "month": "December",
+        "investment": 780000,
+        "sell": 679,
+        "revenue": 65000
     }
 ]
