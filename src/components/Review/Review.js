@@ -6,7 +6,7 @@ const Review = (props) => {
     <div className="flex flex-col justify-center items-center bg-white w-auto h-auto border-2 p-4 rounded-lg">
       <p>
         <img
-          className="w-32 h-32 rounded-full bg-gray-100 bor"
+          className="w-32 h-32 rounded-full bg-gray-100"
           src={img}
           alt=""
         />
