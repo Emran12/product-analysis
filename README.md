@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Rotary Mesh chair](//flourishing-alfajores-29c059.netlify.app/).
+
+## Completed task
+
+- made 9 custom users reviews
+- made 2 rechart in dashboard using data.json
+-
 
 ## Available Scripts
 

@@ -41,19 +41,3 @@ const Blog = () => {
 };
 
 export default Blog;
-
-{
-  /* <div>
-        
-        
-      </div>
-
-      <div>
-        
-        <br></br>
-          
-          del: Deleted text
-          <br></br> 
-        </p>
-      </div> */
-}
